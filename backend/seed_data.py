@@ -2,7 +2,8 @@
 Seed script to populate the database with initial data
 """
 from app import create_app, db
-from models import ServiceType, Slot, ServiceCenter
+from models import ServiceType, Slot, ServiceCenter, User
+from werkzeug.security import generate_password_hash
 from datetime import datetime, timedelta, time
 import random
 
@@ -13,6 +14,14 @@ with app.app_context():
     ServiceType.query.delete()
     Slot.query.delete()
     ServiceCenter.query.delete()
+    User.query.delete()
+    
+    # Seed Default Users
+    hashed_pw = generate_password_hash('password123')
+    customer = User(email='customer@slotbee.com', password_hash=hashed_pw, name='SlotBee Customer', is_admin=False)
+    admin = User(email='admin@slotbee.com', password_hash=hashed_pw, name='SlotBee Admin', is_admin=True)
+    db.session.add(customer)
+    db.session.add(admin)
     
     # Seed Service Types
     services = [
