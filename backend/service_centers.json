@@ -1,0 +1,709 @@
+[
+  {
+    "name": "Trident Hyundai Service – J.P. Nagar",
+    "location": "J.P. Nagar, Bangalore",
+    "contact_number": "+91-9876543210",
+    "latitude": 12.9105,
+    "longitude": 77.5857
+  },
+  {
+    "name": "Advaith Hyundai Service – Outer Ring Road",
+    "location": "Marathahalli, Bangalore",
+    "contact_number": "+91-9900024321",
+    "latitude": 12.9431,
+    "longitude": 77.6966
+  },
+  {
+    "name": "Trident Hyundai Service – Kalyan Nagar",
+    "location": "Kalyan Nagar, Bangalore",
+    "contact_number": "+91-9845012345",
+    "latitude": 13.0221,
+    "longitude": 77.6403
+  },
+  {
+    "name": "Advaith Hyundai Service – Jayanagar",
+    "location": "Jayanagar, Bangalore",
+    "contact_number": "+91-9900024322",
+    "latitude": 12.9254,
+    "longitude": 77.5894
+  },
+  {
+    "name": "Blue Hyundai Service – Rajajinagar",
+    "location": "Rajajinagar, Bangalore",
+    "contact_number": "+91-9686600111",
+    "latitude": 12.9881,
+    "longitude": 77.5535
+  },
+  {
+    "name": "Trident Hyundai Service – Whitefield",
+    "location": "Whitefield, Bangalore",
+    "contact_number": "+91-9845054321",
+    "latitude": 12.9698,
+    "longitude": 77.7499
+  },
+  {
+    "name": "Advaith Hyundai Service – Yeshwanthpur",
+    "location": "Yeshwanthpur, Bangalore",
+    "contact_number": "+91-9900024325",
+    "latitude": 13.0301,
+    "longitude": 77.5504
+  },
+  {
+    "name": "Mandovi Motors Maruti Service – Jayanagar",
+    "location": "Jayanagar, Bangalore",
+    "contact_number": "+91-8049363636",
+    "latitude": 12.9312,
+    "longitude": 77.5812
+  },
+  {
+    "name": "Pratham Motors Maruti Service – Outer Ring Road",
+    "location": "Bellandur, Bangalore",
+    "contact_number": "+91-9591122334",
+    "latitude": 12.9304,
+    "longitude": 77.6784
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Mysore Road",
+    "location": "Nayandahalli, Bangalore",
+    "contact_number": "+91-9900054321",
+    "latitude": 12.9416,
+    "longitude": 77.5251
+  },
+  {
+    "name": "Bimal Auto Agency Maruti Service – Whitefield",
+    "location": "Mahadevapura, Bangalore",
+    "contact_number": "+91-8067523100",
+    "latitude": 12.9912,
+    "longitude": 77.6942
+  },
+  {
+    "name": "Suraksha Car Care Maruti Authorized – Electronic City",
+    "location": "Electronic City Phase 1, Bangalore",
+    "contact_number": "+91-9845076321",
+    "latitude": 12.8494,
+    "longitude": 77.6656
+  },
+  {
+    "name": "Pratham Motors Maruti Service – Koramangala",
+    "location": "Koramangala, Bangalore",
+    "contact_number": "+91-9591122355",
+    "latitude": 12.9352,
+    "longitude": 77.6244
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Bannerghatta Road",
+    "location": "Bilekahalli, Bangalore",
+    "contact_number": "+91-9900067812",
+    "latitude": 12.8988,
+    "longitude": 77.6015
+  },
+  {
+    "name": "Prerana Motors Tata Service – Kudlu Gate",
+    "location": "Hosur Road, Bangalore",
+    "contact_number": "+91-9900015432",
+    "latitude": 12.8924,
+    "longitude": 77.6401
+  },
+  {
+    "name": "KHT Motors Tata Service – Whitefield",
+    "location": "Hoodi, Bangalore",
+    "contact_number": "+91-9886612345",
+    "latitude": 12.9938,
+    "longitude": 77.7128
+  },
+  {
+    "name": "Key Motors Tata Service – Kanakapura Road",
+    "location": "Raghuvanahalli, Bangalore",
+    "contact_number": "+91-8068243000",
+    "latitude": 12.8752,
+    "longitude": 77.5461
+  },
+  {
+    "name": "KHT Motors Tata Service – Domlur",
+    "location": "Domlur Layout, Bangalore",
+    "contact_number": "+91-9886654321",
+    "latitude": 12.9614,
+    "longitude": 77.6388
+  },
+  {
+    "name": "Prerana Motors Tata Service – Yeshwanthpur",
+    "location": "Industrial Area, Bangalore",
+    "contact_number": "+91-9900015488",
+    "latitude": 13.0248,
+    "longitude": 77.5412
+  },
+  {
+    "name": "Key Motors Tata Service – Bikaipura",
+    "location": "Banashankari, Bangalore",
+    "contact_number": "+91-8068243050",
+    "latitude": 12.9189,
+    "longitude": 77.5342
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Bannerghatta Road",
+    "location": "Bhattarahalli, Bangalore",
+    "contact_number": "+91-8043431212",
+    "latitude": 12.9056,
+    "longitude": 77.5954
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Silk Board",
+    "location": "Madiwala, Bangalore",
+    "contact_number": "+91-9900034125",
+    "latitude": 12.9174,
+    "longitude": 77.6238
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Mysore Road",
+    "location": "Byatarayanapura, Bangalore",
+    "contact_number": "+91-8043431250",
+    "latitude": 12.9512,
+    "longitude": 77.5398
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Yelahanka",
+    "location": "Yelahanka Old Town, Bangalore",
+    "contact_number": "+91-9900034199",
+    "latitude": 13.1012,
+    "longitude": 77.5824
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Marathahalli",
+    "location": "Outer Ring Road, Bangalore",
+    "contact_number": "+91-8043431290",
+    "latitude": 12.9488,
+    "longitude": 77.6912
+  },
+  {
+    "name": "Whitefield Honda Service – K.R. Puram",
+    "location": "Devesandra, Bangalore",
+    "contact_number": "+91-9686693210",
+    "latitude": 13.0011,
+    "longitude": 77.6994
+  },
+  {
+    "name": "Dakshin Honda Service – Hosur Road",
+    "location": "Bommanahalli, Bangalore",
+    "contact_number": "+91-9900045612",
+    "latitude": 12.9032,
+    "longitude": 77.6251
+  },
+  {
+    "name": "Magnum Honda Service – Kanakapura Road",
+    "location": "Yelachenahalli, Bangalore",
+    "contact_number": "+91-8049040404",
+    "latitude": 12.8941,
+    "longitude": 77.5682
+  },
+  {
+    "name": "Dakshin Honda Service – Lavelle Road",
+    "location": "Central Business District, Bangalore",
+    "contact_number": "+91-9900045655",
+    "latitude": 12.9719,
+    "longitude": 77.5971
+  },
+  {
+    "name": "Magnum Honda Service – Mekhri Circle",
+    "location": "Sadashivanagar, Bangalore",
+    "contact_number": "+91-8049040499",
+    "latitude": 13.0084,
+    "longitude": 77.5804
+  },
+  {
+    "name": "Trident Hyundai Service – Hennur",
+    "location": "Hennur Main Road, Bangalore",
+    "contact_number": "+91-9845012356",
+    "latitude": 13.0298,
+    "longitude": 77.6311
+  },
+  {
+    "name": "Advaith Hyundai Service – Basavanagudi",
+    "location": "Basavanagudi, Bangalore",
+    "contact_number": "+91-9900024330",
+    "latitude": 12.9412,
+    "longitude": 77.5754
+  },
+  {
+    "name": "Blue Hyundai Service – Mysore Road",
+    "location": "Valagerahalli, Bangalore",
+    "contact_number": "+91-9686600122",
+    "latitude": 12.9208,
+    "longitude": 77.4988
+  },
+  {
+    "name": "Trident Hyundai Service – Electronic City",
+    "location": "Electronic City Phase 2, Bangalore",
+    "contact_number": "+91-9845054355",
+    "latitude": 12.8424,
+    "longitude": 77.6792
+  },
+  {
+    "name": "Advaith Hyundai Service – Indiranagar",
+    "location": "Double Road, Bangalore",
+    "contact_number": "+91-9900024340",
+    "latitude": 12.9721,
+    "longitude": 77.6384
+  },
+  {
+    "name": "Mandovi Motors Maruti Service – Wilson Garden",
+    "location": "Wilson Garden, Bangalore",
+    "contact_number": "+91-8049363640",
+    "latitude": 12.9482,
+    "longitude": 77.5931
+  },
+  {
+    "name": "Pratham Motors Maruti Service – Sarjapur Road",
+    "location": "Kasavanahalli, Bangalore",
+    "contact_number": "+91-9591122366",
+    "latitude": 12.9094,
+    "longitude": 77.6612
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – R.R. Nagar",
+    "location": "Rajarajeshwari Nagar, Bangalore",
+    "contact_number": "+91-9900054355",
+    "latitude": 12.9234,
+    "longitude": 77.5218
+  },
+  {
+    "name": "Bimal Auto Agency Maruti Service – Yelahanka",
+    "location": "Yelahanka New Town, Bangalore",
+    "contact_number": "+91-8067523200",
+    "latitude": 13.0988,
+    "longitude": 77.5712
+  },
+  {
+    "name": "Varun Motors Maruti Service – Hebbal",
+    "location": "Hebbal Kempapura, Bangalore",
+    "contact_number": "+91-9848023456",
+    "latitude": 13.0421,
+    "longitude": 77.5984
+  },
+  {
+    "name": "Prerana Motors Tata Service – Peenya",
+    "location": "Peenya Industrial Area, Bangalore",
+    "contact_number": "+91-9900015499",
+    "latitude": 13.0312,
+    "longitude": 77.5194
+  },
+  {
+    "name": "KHT Motors Tata Service – Mahadevapura",
+    "location": "Outer Ring Road, Bangalore",
+    "contact_number": "+91-9886612399",
+    "latitude": 12.9812,
+    "longitude": 77.6845
+  },
+  {
+    "name": "Key Motors Tata Service – Mysore Road",
+    "location": "Gopalapura, Bangalore",
+    "contact_number": "+91-8068243100",
+    "latitude": 12.9568,
+    "longitude": 77.5488
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Rajajinagar",
+    "location": "Industrial Suburb, Bangalore",
+    "contact_number": "+91-9900034211",
+    "latitude": 12.9984,
+    "longitude": 77.5482
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Electronic City",
+    "location": "Veerasandra Area, Bangalore",
+    "contact_number": "+91-8043431233",
+    "latitude": 12.8388,
+    "longitude": 77.6612
+  },
+  {
+    "name": "Whitefield Honda Service – Hoodi",
+    "location": "Whitefield Main Road, Bangalore",
+    "contact_number": "+91-9686693233",
+    "latitude": 12.9915,
+    "longitude": 77.7214
+  },
+  {
+    "name": "Dakshin Honda Service – Jayanagar",
+    "location": "3rd Block, Bangalore",
+    "contact_number": "+91-9900045688",
+    "latitude": 12.9298,
+    "longitude": 77.5815
+  },
+  {
+    "name": "Magnum Honda Service – Yelahanka",
+    "location": "Doddaballapur Road, Bangalore",
+    "contact_number": "+91-8049040444",
+    "latitude": 13.1124,
+    "longitude": 77.5899
+  },
+  {
+    "name": "Trident Hyundai Service – Jakkur",
+    "location": "Yelahanka Road, Bangalore",
+    "contact_number": "+91-9845012399",
+    "latitude": 13.0645,
+    "longitude": 77.6045
+  },
+  {
+    "name": "Advaith Hyundai Service – Banashankari",
+    "location": "Kathreguppe, Bangalore",
+    "contact_number": "+91-9900024360",
+    "latitude": 12.9248,
+    "longitude": 77.5484
+  },
+  {
+    "name": "Mandovi Motors Maruti Service – HSR Layout",
+    "location": "Sector 6, Bangalore",
+    "contact_number": "+91-8049363670",
+    "latitude": 12.9258,
+    "longitude": 77.6341
+  },
+  {
+    "name": "Pratham Motors Maruti Service – Richmond Road",
+    "location": "Richmond Town, Bangalore",
+    "contact_number": "+91-9591122399",
+    "latitude": 12.9642,
+    "longitude": 77.6011
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Green Glen Layout",
+    "location": "Bellandur, Bangalore",
+    "contact_number": "+91-9900054399",
+    "latitude": 12.9288,
+    "longitude": 77.6811
+  },
+  {
+    "name": "Bimal Auto Agency Maruti Service – Banaswadi",
+    "location": "Kalyan Nagar, Bangalore",
+    "contact_number": "+91-8067523300",
+    "latitude": 13.0184,
+    "longitude": 77.6495
+  },
+  {
+    "name": "Prerana Motors Tata Service – Banashankari",
+    "location": "BSK 3rd Stage, Bangalore",
+    "contact_number": "+91-9900015511",
+    "latitude": 12.9212,
+    "longitude": 77.5399
+  },
+  {
+    "name": "KHT Motors Tata Service – Koramangala",
+    "location": "8th Block, Bangalore",
+    "contact_number": "+91-9886612411",
+    "latitude": 12.9412,
+    "longitude": 77.6184
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Hosur Road",
+    "location": "Singasandra, Bangalore",
+    "contact_number": "+91-9900034255",
+    "latitude": 12.8794,
+    "longitude": 77.6472
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Marathahalli Extn",
+    "location": "Chinnapanahalli, Bangalore",
+    "contact_number": "+91-8043431310",
+    "latitude": 12.9612,
+    "longitude": 77.7015
+  },
+  {
+    "name": "Dakshin Honda Service – Electronic City",
+    "location": "Hosur Main Road, Bangalore",
+    "contact_number": "+91-9900045711",
+    "latitude": 12.8521,
+    "longitude": 77.6619
+  },
+  {
+    "name": "Magnum Honda Service – Rajajinagar",
+    "location": "Dr. Rajkumar Road, Bangalore",
+    "contact_number": "+91-8049040477",
+    "latitude": 12.9915,
+    "longitude": 77.5584
+  },
+  {
+    "name": "Trident Hyundai Service – Sahakara Nagar",
+    "location": "Kodigehalli, Bangalore",
+    "contact_number": "+91-9845012411",
+    "latitude": 13.0612,
+    "longitude": 77.5845
+  },
+  {
+    "name": "Advaith Hyundai Service – Vasanth Nagar",
+    "location": "Millers Road, Bangalore",
+    "contact_number": "+91-9900024375",
+    "latitude": 12.9899,
+    "longitude": 77.5932
+  },
+  {
+    "name": "Blue Hyundai Service – Subramanyapura",
+    "location": "Uttarahalli, Bangalore",
+    "contact_number": "+91-9686600144",
+    "latitude": 12.9015,
+    "longitude": 77.5412
+  },
+  {
+    "name": "Mandovi Motors Maruti Service – Hennur",
+    "location": "Hennur Cross, Bangalore",
+    "contact_number": "+91-8049363699",
+    "latitude": 13.0212,
+    "longitude": 77.6324
+  },
+  {
+    "name": "Pratham Motors Maruti Service – Mahadevapura",
+    "location": "B Narayanapura, Bangalore",
+    "contact_number": "+91-9591122411",
+    "latitude": 12.9894,
+    "longitude": 77.6885
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Electronic City",
+    "location": "Phase 1, Bangalore",
+    "contact_number": "+91-9900054411",
+    "latitude": 12.8465,
+    "longitude": 77.6588
+  },
+  {
+    "name": "Bimal Auto Agency Maruti Service – Hoodi",
+    "location": "Whitefield, Bangalore",
+    "contact_number": "+91-8067523400",
+    "latitude": 12.9965,
+    "longitude": 77.7099
+  },
+  {
+    "name": "Prerana Motors Tata Service – Rajajinagar",
+    "location": "West of Chord Road, Bangalore",
+    "contact_number": "+91-9900015533",
+    "latitude": 12.9845,
+    "longitude": 77.5411
+  },
+  {
+    "name": "Key Motors Tata Service – HSR Layout",
+    "location": "Sector 2, Bangalore",
+    "contact_number": "+91-8068243150",
+    "latitude": 12.9112,
+    "longitude": 77.6454
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Peenya",
+    "location": "4th Phase, Bangalore",
+    "contact_number": "+91-9900034288",
+    "latitude": 13.0294,
+    "longitude": 77.5015
+  },
+  {
+    "name": "Whitefield Honda Service – Mahadevapura",
+    "location": "ORR, Bangalore",
+    "contact_number": "+91-9686693255",
+    "latitude": 12.9854,
+    "longitude": 77.6912
+  },
+  {
+    "name": "Magnum Honda Service – Indiranagar",
+    "location": "100 Feet Road, Bangalore",
+    "contact_number": "+91-8049040511",
+    "latitude": 12.9645,
+    "longitude": 77.6412
+  },
+  {
+    "name": "Trident Hyundai Service – CV Raman Nagar",
+    "location": "Kaggadasapura, Bangalore",
+    "contact_number": "+91-9845012433",
+    "latitude": 12.9812,
+    "longitude": 77.6694
+  },
+  {
+    "name": "Advaith Hyundai Service – RT Nagar",
+    "location": "Ganga Nagar, Bangalore",
+    "contact_number": "+91-9900024390",
+    "latitude": 13.0215,
+    "longitude": 77.5912
+  },
+  {
+    "name": "Mandovi Motors Maruti Service – Yelahanka",
+    "location": "Doddaballapur Main Road, Bangalore",
+    "contact_number": "+91-8049363711",
+    "latitude": 13.1094,
+    "longitude": 77.5788
+  },
+  {
+    "name": "Pratham Motors Maruti Service – HSR Layout",
+    "location": "Sector 3, Bangalore",
+    "contact_number": "+91-9591122433",
+    "latitude": 12.9142,
+    "longitude": 77.6384
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Kengeri",
+    "location": "Satellite Town, Bangalore",
+    "contact_number": "+91-9900054433",
+    "latitude": 12.9194,
+    "longitude": 77.4812
+  },
+  {
+    "name": "Bimal Auto Agency Maruti Service – Hebbal",
+    "location": "Bellary Road, Bangalore",
+    "contact_number": "+91-8067523500",
+    "latitude": 13.0354,
+    "longitude": 77.5915
+  },
+  {
+    "name": "Prerana Motors Tata Service – Yelahanka",
+    "location": "Attur Layout, Bangalore",
+    "contact_number": "+91-9900015555",
+    "latitude": 13.0912,
+    "longitude": 77.5645
+  },
+  {
+    "name": "KHT Motors Tata Service – Domlur Extn",
+    "location": "Inner Ring Road, Bangalore",
+    "contact_number": "+91-9886612455",
+    "latitude": 12.9545,
+    "longitude": 77.6312
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Jayanagar",
+    "location": "9th Block, Bangalore",
+    "contact_number": "+91-9900034311",
+    "latitude": 12.9194,
+    "longitude": 77.5945
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Hebbal",
+    "location": "Outer Ring Road, Bangalore",
+    "contact_number": "+91-8043431340",
+    "latitude": 13.0412,
+    "longitude": 77.6112
+  },
+  {
+    "name": "Dakshin Honda Service – Koramangala",
+    "location": "4th Block, Bangalore",
+    "contact_number": "+91-9900045744",
+    "latitude": 12.9315,
+    "longitude": 77.6294
+  },
+  {
+    "name": "Whitefield Honda Service – Varthur",
+    "location": "Varthur Main Road, Bangalore",
+    "contact_number": "+91-9686693288",
+    "latitude": 12.9412,
+    "longitude": 77.7415
+  },
+  {
+    "name": "Trident Hyundai Service – Banaswadi",
+    "location": "Horamavu Agara, Bangalore",
+    "contact_number": "+91-9845012466",
+    "latitude": 13.0254,
+    "longitude": 77.6588
+  },
+  {
+    "name": "Advaith Hyundai Service – Malleshwaram",
+    "location": "Margosa Road, Bangalore",
+    "contact_number": "+91-9900024410",
+    "latitude": 12.9988,
+    "longitude": 77.5712
+  },
+  {
+    "name": "Mandovi Motors Maruti Service – Banashankari",
+    "location": "Outer Ring Road, Bangalore",
+    "contact_number": "+91-8049363733",
+    "latitude": 12.9154,
+    "longitude": 77.5512
+  },
+  {
+    "name": "Pratham Motors Maruti Service – Electronic City",
+    "location": "Phase 2, Bangalore",
+    "contact_number": "+91-9591122455",
+    "latitude": 12.8394,
+    "longitude": 77.6745
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Hebbal",
+    "location": "Chola Nagar, Bangalore",
+    "contact_number": "+91-9900054466",
+    "latitude": 13.0294,
+    "longitude": 77.5945
+  },
+  {
+    "name": "Bimal Auto Agency Maruti Service – Cox Town",
+    "location": "Jeevanahalli, Bangalore",
+    "contact_number": "+91-8067523600",
+    "latitude": 12.9942,
+    "longitude": 77.6215
+  },
+  {
+    "name": "Prerana Motors Tata Service – Whitefield",
+    "location": "ECC Road, Bangalore",
+    "contact_number": "+91-9900015577",
+    "latitude": 12.9788,
+    "longitude": 77.7512
+  },
+  {
+    "name": "Key Motors Tata Service – Rajajinagar",
+    "location": "1st Block, Bangalore",
+    "contact_number": "+91-8068243200",
+    "latitude": 12.9984,
+    "longitude": 77.5512
+  },
+  {
+    "name": "Sireesh Auto Mahindra Service – Marathahalli",
+    "location": "ORR, Bangalore",
+    "contact_number": "+91-9900034344",
+    "latitude": 12.9512,
+    "longitude": 77.6984
+  },
+  {
+    "name": "Anant Cars Mahindra Service – Bannerghatta Extn",
+    "location": "Gottigere, Bangalore",
+    "contact_number": "+91-8043431370",
+    "latitude": 12.8584,
+    "longitude": 77.5894
+  },
+  {
+    "name": "Magnum Honda Service – Hennur",
+    "location": "Hennur Cross, Bangalore",
+    "contact_number": "+91-8049040544",
+    "latitude": 13.0245,
+    "longitude": 77.6388
+  },
+  {
+    "name": "Dakshin Honda Service – Mysore Road",
+    "location": "Nayandahalli, Bangalore",
+    "contact_number": "+91-9900045777",
+    "latitude": 12.9454,
+    "longitude": 77.5288
+  },
+  {
+    "name": "Trident Hyundai Service – Nelamangala",
+    "location": "Tumkur Road, Bangalore",
+    "contact_number": "+91-9845012499",
+    "latitude": 13.0988,
+    "longitude": 77.3912
+  },
+  {
+    "name": "Advaith Hyundai Service – Kengeri",
+    "location": "Mysore Road, Bangalore",
+    "contact_number": "+91-9900024430",
+    "latitude": 12.9112,
+    "longitude": 77.4712
+  },
+  {
+    "name": "Blue Hyundai Service – Yeshwanthpur",
+    "location": "Mathikere, Bangalore",
+    "contact_number": "+91-9686600166",
+    "latitude": 13.0345,
+    "longitude": 77.5588
+  },
+  {
+    "name": "Kalyani Motors Maruti Service – Chandapura",
+    "location": "Anekal Taluk, Bangalore",
+    "contact_number": "+91-9900054499",
+    "latitude": 12.7912,
+    "longitude": 77.7012
+  },
+  {
+    "name": "Key Motors Tata Service – Electronic City",
+    "location": "Doddathogur, Bangalore",
+    "contact_number": "+91-8068243250",
+    "latitude": 12.8454,
+    "longitude": 77.6694
+  }
+]
